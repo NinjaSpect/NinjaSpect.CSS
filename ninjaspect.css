@@ -12,4 +12,61 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.td-dashed {
+    text-decoration: dashed;
+}
+
+.td-dotted {
+    text-decoration: dotted;
+}
+
+.td-double {
+    text-decoration: double;
+}
+
+.td-line-through {
+    text-decoration: line-through;
+}
+
+.td-overline {
+    text-decoration: overline;
+}
+
+.td-solid {
+    text-decoration: solid;
+}
+
+.td-underline {
+    text-decoration: underline;
+}
+
+.td-wavy {
+    text-decoration: wavy;
+}
+
+.fw-bold {
+    font-weight: bold;
+}
+
+.fw-bolder {
+    font-weight: bolder;
+}
+
+.fw-lighter {
+    font-weight: lighter;
 }
